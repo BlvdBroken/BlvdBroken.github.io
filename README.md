@@ -1,0 +1,1 @@
+A website where I hope to host various things including relevant links, personal projects, favorite books, and whatever else comes to mind. It also serves as an exercise in website development for someone who has only ever made very unimpressive html and js code.
