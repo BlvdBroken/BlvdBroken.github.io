@@ -3,7 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: BlvdBroken's Domain
 ---
-# Welcome to my site
-
-Description here
+This is the home page.

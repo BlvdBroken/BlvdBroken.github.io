@@ -34,6 +34,12 @@ social:
   github: BlvdBroken
   discord: blvdbroken
 
+navigation:
+  - title: Projects
+    url: /projects/
+  - title: Recommended Media
+    url: /recommended-media/
+
 # Build settings
 remote_theme: jekyll/minima
 theme: minima
